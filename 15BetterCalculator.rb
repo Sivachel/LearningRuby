@@ -11,7 +11,7 @@ elsif op == "-"
   puts(num1 - num2)
 elsif op == "*"
   puts(num1 * num2)
-  elsif op == "/"
+elsif op == "/"
   puts(num1 / num2)
 else
   return "you messed up"
